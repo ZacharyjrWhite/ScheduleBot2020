@@ -4,7 +4,7 @@ const {
 const client = new Client({
     disableEveryone: false
 });
-const clientToken = 'NzUzOTM5MDk0ODY1ODM4MTIx.X1tefw.ttSNNrnuN_ApNGyIq-KTcyakQGQ';
+const clientToken = '[ADD_BOT_TOKEN_HERE]';
 const scheduleJson = require('./Schedule.json')
 const quotes = require('./quotes.json')
 var listOfAssignments = require('./ListOfAssignments.json');
