@@ -1,0 +1,18 @@
+{
+  "name": "ScheduleBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "xmlhttprequest": "^1.8.0",
+    "ytdl-core": "^3.2.2"
+  }
+}

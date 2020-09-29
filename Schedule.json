@@ -1,0 +1,174 @@
+{
+    "DayOfWeek": {
+        "Monday": {
+            "8:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "9:30am": {
+                "class": "Web",
+                "teacher": "Steven Monk"
+            },
+            "10:30am": {
+                "class": "Web",
+                "teacher": "Steven Monk"
+            },
+            "11:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "12:30pm": {
+                "class": "Lunch",
+                "teacher": ""
+            },
+            "1:30pm": {
+                "class": "Communications",
+                "teacher": "AJ Arseneau"
+            },
+            "2:30pm": {
+                "class": "Communications",
+                "teacher": "AJ Arseneau"
+            },
+            "3:30pm": {
+                "class": "",
+                "teacher": ""
+            }
+        },
+        "Tuesday": {
+            "8:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "9:30am": {
+                "class": "Programming",
+                "teacher": "Cathy Burchill"
+            },
+            "10:30am": {
+                "class": "Programming",
+                "teacher": "Cathy Burchil"
+            },
+            "11:30am": {
+                "class": "Work Safe",
+                "teacher": "Cathy Burchil"
+            },
+            "12:30pm": {
+                "class": "Lunch",
+                "teacher": ""
+            },
+            "1:30pm": {
+                "class": "Networking",
+                "teacher": "Peter McDevitt"
+            },
+            "2:30pm": {
+                "class": "Networking",
+                "teacher": "Peter McDevitt"
+            },
+            "3:30pm": {
+                "class": "",
+                "teacher": ""
+            }
+        },
+        "Wednesday": {
+            "8:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "9:30am": {
+                "class": "Applied Writing",
+                "teacher": "AJ Arseneau"
+            },
+            "10:30am": {
+                "class": "Applied Writing",
+                "teacher": "AJ Arseneau"
+            },
+            "11:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "12:30pm": {
+                "class": "Lunch",
+                "teacher": ""
+            },
+            "1:30pm": {
+                "class": "Communications",
+                "teacher": "AJ Arseneau"
+            },
+            "2:30pm": {
+                "class": "Communications",
+                "teacher": "AJ Arseneau"
+            },
+            "3:30pm": {
+                "class": "",
+                "teacher": ""
+            }
+        },
+        "Thursday": {
+            "8:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "9:30am": {
+                "class": "Programming",
+                "teacher": "Cathy Burchill"
+            },
+            "10:30am": {
+                "class": "Programming",
+                "teacher": "Cathy Burchil"
+            },
+            "11:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "12:30pm": {
+                "class": "Lunch",
+                "teacher": ""
+            },
+            "1:30pm": {
+                "class": "Operating Systems",
+                "teacher": "Adam Stapledon"
+            },
+            "2:30pm": {
+                "class": "Operating Systems",
+                "teacher": "Adam Stapledon"
+            },
+            "3:30pm": {
+                "class": "",
+                "teacher": ""
+            }
+        },
+        "Friday": {
+            "8:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "9:30am": {
+                "class": "Networking",
+                "teacher": "Peter McDevitt"
+            },
+            "10:30am": {
+                "class": "Networking",
+                "teacher": "Peter McDevitt"
+            },
+            "11:30am": {
+                "class": "",
+                "teacher": ""
+            },
+            "12:30pm": {
+                "class": "Lunch",
+                "teacher": ""
+            },
+            "1:30pm": {
+                "class": "Operating Systems",
+                "teacher": "Adam Stapledon"
+            },
+            "2:30pm": {
+                "class": "Operating Systems",
+                "teacher": "Adam Stapledon"
+            },
+            "3:30pm": {
+                "class": "",
+                "teacher": ""
+            }
+        }
+    }
+}
